@@ -1,2 +1,2 @@
-# TyporaPics
-Typora自动上传图片
+# AutoUploadPics
+自动上传图片
